@@ -4,7 +4,7 @@
 ### About Me
 I love to study technology so I can help people through programming.  
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Canton&show_icons=true&theme=white)
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Canton&show_icons=true&theme=dark)
 
 ### Hard Skils
 <div style="display: inline-block">
