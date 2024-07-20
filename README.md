@@ -15,6 +15,7 @@ I love to study technology so I can help people through programming.
     <img align = "center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVA SCRIPT" />
     <img align = "center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPE SCRIPT" />
     <img align = "center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT" />
+    <img align = "center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" />
 </div>
 
 ### Technologies under study
