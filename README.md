@@ -17,8 +17,6 @@ I am a **Front-end Developer** passionate about technology and problem-solving. 
 </div>
 
 ### 🛠️ Technologies I'm Learning  
-<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA" />
 <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAF" alt="REACT NATIVE" />
 <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL" />
 <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NODEJS" />
-<img align="center" src="https://img.shields.io/badge/JavaFX-3876FF?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVAFX" />
